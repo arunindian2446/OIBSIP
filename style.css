@@ -19,9 +19,12 @@ h1{
     20%{
         color: yellow;
     }
-    70%{
+    40%{
         color: blue;
     }
+     20%{
+         color:green;
+     }
 }
 .Container{
     height: 100vh;
