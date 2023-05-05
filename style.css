@@ -13,18 +13,13 @@ h1{
 }
 @keyframes arun
  {
-    10%{
+    50%{
         color: red;
     }
-    20%{
-        color: yellow;
-    }
-    40%{
-        color: blue;
-    }
-     20%{
-         color:green;
+     50%{
+      color:blue;   
      }
+   
 }
 .Container{
     height: 100vh;
